@@ -20,7 +20,7 @@ I usually open-source most of my projects, so I'm around Github quite frequently
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Sunday, January 16th, 2022, 9:41:47 AM
+Last Updated: Sunday, January 16th, 2022, 9:54:21 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 ---
