@@ -21,13 +21,13 @@ I usually open-source most of my projects, so I'm around Github quite frequently
 
 ---
 
-### 🔗 Connect with me:
+🔗 Connect with me:
 
 [<img align="left" alt="DeadmanWasTaken.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img align="left" alt="DeadmanWasTaken | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
 [<img align="left" alt="DeadmanWasTaken | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 
-<br />
+---
 
 ### Languages and Tools:
 
