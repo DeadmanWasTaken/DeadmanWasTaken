@@ -9,6 +9,13 @@ I usually open-source most of my projects, so I'm around Github quite frequently
 
 ---
 
+🗄 Projects I am currently working on:
+
+[![Workout Website](https://github-readme-stats.vercel.app/api/pin/?username=DeadmanWasTaken&repo=workoutwebsite)](https://github.com/DeadmanWasTaken/WorkoutWebsite)
+[![DeadmanWasTaken Readme](https://github-readme-stats.vercel.app/api/pin/?username=DeadmanWasTaken&repo=DeadmanWasTaken)](https://github.com/DeadmanWasTaken/DeadmanWasTaken)
+
+---
+
 👀 Recent GitHub Activity
   
 <!--RECENT_ACTIVITY:start-->
