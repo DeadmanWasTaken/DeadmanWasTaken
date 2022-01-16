@@ -7,8 +7,8 @@ I usually open-source most of my projects, so I'm around Github quite frequently
 - 🧑‍💻 You'll be able to read more about my projects at my website when I have completed it.
 - ⚡ Fun Fact: I can be smart at times, dumb at others.
 
-<br />
----
+<br /> ---
+
 <summary>👀 Recent GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
