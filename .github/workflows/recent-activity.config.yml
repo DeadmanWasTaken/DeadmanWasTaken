@@ -1,5 +1,25 @@
+<<<<<<< HEAD
 settings:
   date:
     timezone: "UTC+10:30"
     text: "Last Updated: {DATE} (Australian Central Daylight Time)"
     format: "dddd, mmmm dS, yyyy, h:MM:ss TT"
+=======
+name: Update README
+
+on:
+  schedule:
+    - cron: '*/30 * * * *' # Update every 30 minutes
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    name: Update Profile README
+
+    steps:
+      - uses: actions/checkout@v2.3.4
+      - uses: Readme-Workflows/recent-activity@v2.3.2
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+>>>>>>> 9b6748e3fb33a422dc5681a99d773ea3097e8892
