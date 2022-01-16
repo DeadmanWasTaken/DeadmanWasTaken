@@ -7,15 +7,18 @@ I usually open-source most of my projects, so I'm around Github quite frequently
 - 🧑‍💻 You'll be able to read more about my projects at my website when I have completed it.
 - ⚡ Fun Fact: I can be smart at times, dumb at others.
 
-## 2022 Goals
+<details>
+  <summary>:zap: Recent GitHub Activity</summary>
+  
+<!--START_SECTION:activity-->
+1. 🗣 Commented on [#46](https://github.com/codeSTACKr/video-source-code-create-nft-collection/issues/46) in [codeSTACKr/video-source-code-create-nft-collection](https://github.com/codeSTACKr/video-source-code-create-nft-collection)
+2. ❗️ Closed issue [#46](https://github.com/codeSTACKr/video-source-code-create-nft-collection/issues/46) in [codeSTACKr/video-source-code-create-nft-collection](https://github.com/codeSTACKr/video-source-code-create-nft-collection)
+3. ❗️ Closed issue [#45](https://github.com/codeSTACKr/video-source-code-create-nft-collection/issues/45) in [codeSTACKr/video-source-code-create-nft-collection](https://github.com/codeSTACKr/video-source-code-create-nft-collection)
+4. 🗣 Commented on [#45](https://github.com/codeSTACKr/video-source-code-create-nft-collection/issues/45) in [codeSTACKr/video-source-code-create-nft-collection](https://github.com/codeSTACKr/video-source-code-create-nft-collection)
+5. ❗️ Closed issue [#44](https://github.com/codeSTACKr/video-source-code-create-nft-collection/issues/44) in [codeSTACKr/video-source-code-create-nft-collection](https://github.com/codeSTACKr/video-source-code-create-nft-collection)
+<!--END_SECTION:activity-->
 
-- 🚗 Obtain my L's
-- 🎆 Master HTML5
-- 🎆 Master CSS3
-- 🎆 Begin Learning Javascript
-- 🖥️ Eventually learn other programming languages such as C# and Unreal Engine Blueprints
-- 🍩 Also start learning about 3D modelling in blender and texturing in substance painter
-- 🌐 Finally also learn some UI / UX design to correlate with my HTMl5 and CSS3 knowledge
+</details>
 
 ### Connect with me:
 
@@ -42,18 +45,8 @@ I usually open-source most of my projects, so I'm around Github quite frequently
 
 ![Wwakatime stats](https://github-readme-stats-taupe-two.vercel.app/api/wakatime?username=DeadmanWasTaken&hide_title=true&hide_border=true&langs_count=5&bg_color=00000000&text_color=777)
 
-<details>
-  <summary>:zap: Recent GitHub Activity</summary>
-  
-<!--START_SECTION:activity-->
-1. 🗣 Commented on [#46](https://github.com/codeSTACKr/video-source-code-create-nft-collection/issues/46) in [codeSTACKr/video-source-code-create-nft-collection](https://github.com/codeSTACKr/video-source-code-create-nft-collection)
-2. ❗️ Closed issue [#46](https://github.com/codeSTACKr/video-source-code-create-nft-collection/issues/46) in [codeSTACKr/video-source-code-create-nft-collection](https://github.com/codeSTACKr/video-source-code-create-nft-collection)
-3. ❗️ Closed issue [#45](https://github.com/codeSTACKr/video-source-code-create-nft-collection/issues/45) in [codeSTACKr/video-source-code-create-nft-collection](https://github.com/codeSTACKr/video-source-code-create-nft-collection)
-4. 🗣 Commented on [#45](https://github.com/codeSTACKr/video-source-code-create-nft-collection/issues/45) in [codeSTACKr/video-source-code-create-nft-collection](https://github.com/codeSTACKr/video-source-code-create-nft-collection)
-5. ❗️ Closed issue [#44](https://github.com/codeSTACKr/video-source-code-create-nft-collection/issues/44) in [codeSTACKr/video-source-code-create-nft-collection](https://github.com/codeSTACKr/video-source-code-create-nft-collection)
-<!--END_SECTION:activity-->
 
-</details>
+
 
 <details>
   <summary>:zap: GitHub Stats</summary>
