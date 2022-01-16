@@ -55,7 +55,7 @@ I'll eventually add more here, but for now that's about it.
     <a href="https://www.w3schools.com/html/default.asp" target="_blank"> <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" alt="angular" width="40" height="40"/>
     <a href="https://www.w3schools.com/css/default.asp" target="_blank"> <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" alt="angular" width="40" height="40"/>
 </details> 
-      
+
 <details>
   <summary><b>📈Language / Framework stats</b></summary>
   <br/>
