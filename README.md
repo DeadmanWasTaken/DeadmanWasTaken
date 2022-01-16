@@ -21,12 +21,12 @@ I usually open-source most of my projects, so I'm around Github quite frequently
 <p align="left">
 <a href="https://twitter.com/DeadmanWasTaken" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="DeadmanWasTaken" height="30" width="40" /></a>
 <a href="https://www.youtube.com/channel/UCrF_XcG4z8QQDAf-PHXUI0A" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="DeadmanWasTaken" height="30" width="40" /></a>
-<a href="https://discord.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Mr. Deadman" height="30" width="40" /></a>
+<a href="https://discord.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" alt="Mr. Deadman" height="30" width="40" /></a>
  <a href="https://github.com/DeadmanWasTaken" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="DeadmanWasTaken" height="30" width="40" /></a>
  <a href="https://www.reddit.com/user/DeadmanWasTaken" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/reddit.svg" alt="DeadmanWasTaken" height="30" width="40" /></a>
 
 ---
-📊 This week I spent my time on
+📊 This week I have spent my time on
 
 ![Wwakatime stats](https://github-readme-stats-taupe-two.vercel.app/api/wakatime?username=DeadmanWasTaken&hide_title=true&hide_border=true&langs_count=5&bg_color=00000000&text_color=777)
   
