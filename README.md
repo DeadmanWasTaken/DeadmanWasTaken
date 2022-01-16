@@ -1,7 +1,7 @@
 ### Hi there, I'm Trent - aka [DeadmanWasTaken][website] 👋 
 
-[![Website (Coming Soon)](https://img.shields.io/website-up-down-green-red/http/cv.lbesson.qc.to.svg)][website]
-[![Twitter Follow](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)][twitter]
+[![Website (Coming Soon)](https://img.shields.io/website-up-down-green-red/http/cv.lbesson.qc.to.svg)[website]
+[![Twitter Follow](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)[twitter]
 
 ## I'm a Son, Junior (Year 11) Student, an Uprising Web Developer!!
 
