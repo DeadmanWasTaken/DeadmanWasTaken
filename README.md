@@ -54,7 +54,6 @@ I'll eventually add more here, but for now that's about it.
     <a href="https://visualstudio.microsoft.com" target="_blank"> <img src="https://winaero.com/blog/wp-content/uploads/2019/02/visual-studio-2019-purple-icon2.png" alt="angular" width="40" height="40"/>
     <a href="https://www.w3schools.com/html/default.asp" target="_blank"> <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" alt="angular" width="40" height="40"/>
     <a href="https://www.w3schools.com/css/default.asp" target="_blank"> <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" alt="angular" width="40" height="40"/>
-      
 </details> 
       
 <details>
@@ -63,11 +62,9 @@ I'll eventually add more here, but for now that's about it.
   <a href='https://profile.codersrank.io/user/DeadmanWasTaken/'>
   <img src='http://cr-skills-chart-widget.azurewebsites.net/api/api?username=DeadmanWasTaken&padding=30&skills=angular,batchfile,c,C%23,coffeescript,dart,go,html,json,java,javascript,less,mysql,php,pandas,perl,python,reactjs,scss,shell,svelte,swift,typescript,vue'>
   </a>
-  
 </details> 
 
 <details>
   <summary>:zap: GitHub Stats</summary>
-
   <img align="left" alt="DeadmanWasTaken's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=DeadmanWasTaken&show_icons=true&hide_border=true" />
 </details>
