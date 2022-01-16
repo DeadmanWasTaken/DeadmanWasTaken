@@ -1,8 +1,8 @@
-### Hello there! My name is Trent - also known as [DeadmanWasTaken][website]<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+### Hello there! My name is Trent - also known as [DeadmanWasTaken](https://www.google.com)<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 I usually open-source most of my projects, so I'm around Github quite frequently
 
 - 🔭 I am currently working on building my first website, using HTML and CSS.
-- 🌱 At the same time I am currently learning HTML, CSS and hopefully eventually JavaScript with [Codecademy].
+- 🌱 At the same time I am currently learning HTML, CSS and hopefully eventually JavaScript with [Codecademy](https://codecademy.com).
 - 📫 You can reach me with these methods: [@DeadmanWasTaken](https://twitter.com/DeadmanWasTaken) or [Mr. Deadman#5378](https://discord.com) on Discord.
 - 🧑‍💻 You'll be able to read more about my projects at my website when I have completed it.
 - ⚡ Fun Fact: I can be smart at times, dumb at others.
@@ -71,8 +71,3 @@ I'll eventually add more here, but for now that's about it.
   <img align="left" alt="DeadmanWasTaken's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=DeadmanWasTaken&show_icons=true&hide_border=true" />
 
 </details>
-
-[website]: https://www.google.com
-[twitter]: https://twitter.com/DeadmanWasTaken
-[youtube]: https://www.youtube.com/channel/UCrF_XcG4z8QQDAf-PHXUI0A
-[codecademy]: https://codecademy.com
