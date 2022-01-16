@@ -51,15 +51,10 @@ I'll eventually add more here, but for now that's about it.
   <br/>
    <p align="left">
    <a href="https://visualstudio.microsoft.com" target="_blank"> <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" alt="angular" width="40" height="40"/>
-     
-     
-/* [<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />][visualstudio]
-[<img align="left" alt="Visual Studio" width="26px" src="https://winaero.com/blog/wp-content/uploads/2019/02/visual-studio-2019-purple-icon2.png" />][visualstudio]
-[<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />][html5]
-[<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />][css3]
-[<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />][github]
-[<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />][github]
-</details> /*
+    <a href="https://visualstudio.microsoft.com" target="_blank"> <img src="https://winaero.com/blog/wp-content/uploads/2019/02/visual-studio-2019-purple-icon2.png" alt="angular" width="40" height="40"/>
+    <a href="https://www.w3schools.com/html/default.asp" target="_blank"> <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" alt="angular" width="40" height="40"/>
+    <a href="https://www.w3schools.com/css/default.asp" target="_blank"> <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" alt="angular" width="40" height="40"/>
+</details> 
 
 <br />
 <br />
@@ -80,9 +75,4 @@ I'll eventually add more here, but for now that's about it.
 [website]: https://www.google.com
 [twitter]: https://twitter.com/DeadmanWasTaken
 [youtube]: https://www.youtube.com/channel/UCrF_XcG4z8QQDAf-PHXUI0A
-[visualstudio]: https://visualstudio.microsoft.com
-[html5]: https://www.w3schools.com/html/default.asp
-[css3]: https://www.w3schools.com/css/default.asp
-[github]: https://github.com/DeadmanWasTaken
 [codecademy]: https://codecademy.com
-[discord]: https://discord.com
