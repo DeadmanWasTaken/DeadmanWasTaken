@@ -11,9 +11,7 @@ jobs:
     name: Update Profile README
 
     steps:
-      - uses: actions/checkout@master
-      #
-      # "{version}" is a placeholder and should be replaced with the latest release of recent-activity
-      - uses: Readme-Workflows/recent-activity@{version}
+      - uses: actions/checkout@v2.3.4
+      - uses: Readme-Workflows/recent-activity@v2.3.2
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
