@@ -1,13 +1,8 @@
 ### Hello there! My name is Trent - also known as [DeadmanWasTaken][website]<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+I usually open-source most of my projects, so I'm around Github quite frequently
 
----
-
-📊 &nbsp;**This week I spent my time on**
-
-![Wwakatime stats](https://github-readme-stats-taupe-two.vercel.app/api/wakatime?username=DeadmanWasTaken&hide_title=true&hide_border=true&langs_count=5&bg_color=00000000&text_color=777)
-
-## I'm a Son, High School Juniour and Rising Web Developer!!
-
+- 🔭 I am currently working on building my first website, using HTML and CSS.
+- 🌱 At the same time I am currently learning HTML, CSS and hopefully eventually JavaScript with [Codecademy].[codecademy]
 - ⚡ Fun Fact: I love to create and build things!
 - 🖥️ I eventually want to be able to create modifications for The Long Dark, and maybe collaborate with a few already well-known modders.
 - 🏅 Trying to learn everything
@@ -43,6 +38,9 @@
 <br />
 
 ---
+📊 &nbsp;**This week I spent my time on**
+
+![Wwakatime stats](https://github-readme-stats-taupe-two.vercel.app/api/wakatime?username=DeadmanWasTaken&hide_title=true&hide_border=true&langs_count=5&bg_color=00000000&text_color=777)
 
 <details>
   <summary>:zap: Recent GitHub Activity</summary>
@@ -71,3 +69,4 @@
 [html5]: https://www.w3schools.com/html/default.asp
 [css3]: https://www.w3schools.com/css/default.asp
 [github]: https://github.com/DeadmanWasTaken
+[codecademy]: https://codecademy.com
