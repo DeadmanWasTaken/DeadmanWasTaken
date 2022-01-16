@@ -5,25 +5,25 @@
 
 ## I'm a Son, High School Juniour and Rising Web Developer!!
 
-- 
+- ⚡ Fun Fact: I love to create and build things!
+- 🖥️ I eventually want to be able to create modifications for The Long Dark, and maybe collaborate with a few already well-known modders.
+- 🏅 Trying to learn everything
 
 ## 2022 Goals
 
 - 🚗 Obtain my L's
-- <img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />Master HTML5
-- <img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />Master CSS3
-- <img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />Begin Learning Javascript
+- 🎆 Master HTML5
+- 🎆 Master CSS3
+- 🎆 Begin Learning Javascript
 - 🖥️ Eventually learn other programming languages such as C# and Unreal Engine Blueprints
 - 🍩 Also start learning about 3D modelling in blender and texturing in substance painter
 - 🌐 Finally also learn some UI / UX design to correlate with my HTMl5 and CSS3 knowledge
 
 ### Connect with me:
 
-[<img align="left" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="codeSTACKr | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
-[<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img align="left" alt="DeadmanWasTaken.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
+[<img align="left" alt="DeadmanWasTaken | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
+[<img align="left" alt="DeadmanWasTaken | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 
 <br />
 
@@ -89,12 +89,9 @@
 
 </details>
 
-[website]: https://codeSTACKr.com
-[course]: http://vsCodeHero.com
-[twitter]: https://twitter.com/codeSTACKr
-[youtube]: https://youtube.com/codeSTACKr
-[instagram]: https://instagram.com/codeSTACKr
-[linkedin]: https://linkedin.com/in/codeSTACKr
+[website]: https://www.google.com
+[twitter]: https://twitter.com/DeadmanWasTaken
+[youtube]: https://www.youtube.com/channel/UCrF_XcG4z8QQDAf-PHXUI0A
 [visualstudio]: https://visualstudio.microsoft.com
 [html5]: https://www.w3schools.com/html/default.asp
 [css3]: https://www.w3schools.com/css/default.asp
