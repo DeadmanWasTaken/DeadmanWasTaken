@@ -73,26 +73,12 @@ I'll eventually add more here, but for now that's about it.
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-1%20hr%2058%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
-
-**🐱 My GitHub Data** 
-
-> 🏆 129 Contributions in the Year 2022
- > 
-> 📦 14.1 kB Used in GitHub's Storage 
- > 
-> 🚫 Not Opted to Hire
- > 
-> 📜 2 Public Repositories 
- > 
-> 🔑 1 Private Repository 
- > 
 **I'm an Early 🐤** 
 
 ```text
 🌞 Morning    0 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   0.0% 
-🌆 Daytime    83 commits     ████████████████░░░░░░░░░   63.85% 
-🌃 Evening    46 commits     ████████░░░░░░░░░░░░░░░░░   35.38% 
+🌆 Daytime    82 commits     ███████████████░░░░░░░░░░   63.08% 
+🌃 Evening    47 commits     █████████░░░░░░░░░░░░░░░░   36.15% 
 🌙 Night      1 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   0.77%
 
 ```
