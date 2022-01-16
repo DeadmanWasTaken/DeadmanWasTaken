@@ -4,9 +4,8 @@ I usually open-source most of my projects, so I'm around Github quite frequently
 - 🔭 I am currently working on building my first website, using HTML and CSS.
 - 🌱 At the same time I am currently learning HTML, CSS and hopefully eventually JavaScript with [Codecademy].
 - 📫 You can reach me with these methods: [@DeadmanWasTaken][twitter] or [Mr. Deadman#5378][discord] on Discord.
-- ⚡ Fun Fact: I love to create and build things!
-- 🖥️ I eventually want to be able to create modifications for The Long Dark, and maybe collaborate with a few already well-known modders.
-- 🏅 Trying to learn everything
+- 🧑‍💻 You'll be able to read more about my projects at my website when I have completed it.
+- ⚡ Fun Fact: I can be smart at times, dumb at others.
 
 ## 2022 Goals
 
