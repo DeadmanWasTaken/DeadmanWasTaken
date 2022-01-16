@@ -7,6 +7,8 @@ I usually open-source most of my projects, so I'm around Github quite frequently
 - 🧑‍💻 You'll be able to read more about my projects at my website when I have completed it.
 - ⚡ Fun Fact: I can be smart at times, dumb at others.
 
+<br />
+
 <details>
   <summary><img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" /> Recent GitHub Activity</summary>
   
