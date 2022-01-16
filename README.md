@@ -14,6 +14,9 @@ I usually open-source most of my projects, so I'm around Github quite frequently
 [![Workout Website](https://github-readme-stats.vercel.app/api/pin/?username=DeadmanWasTaken&repo=workoutwebsite)](https://github.com/DeadmanWasTaken/WorkoutWebsite)
 [![DeadmanWasTaken Readme](https://github-readme-stats.vercel.app/api/pin/?username=DeadmanWasTaken&repo=DeadmanWasTaken)](https://github.com/DeadmanWasTaken/DeadmanWasTaken)
 
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
 ---
 
 👀 <b>Recent GitHub Activity</b>
