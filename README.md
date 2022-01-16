@@ -27,6 +27,8 @@ I usually open-source most of my projects, so I'm around Github quite frequently
 <a href="https://twitter.com/DeadmanWasTaken" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="DeadmanWasTaken" height="30" width="40" /></a>
 <a href="https://www.youtube.com/channel/UCrF_XcG4z8QQDAf-PHXUI0A" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="DeadmanWasTaken" height="30" width="40" /></a>
 <a href="https://discord.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Mr. Deadman" height="30" width="40" /></a>
+ <a href="https://github.com/DeadmanWasTaken" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="DeadmanWasTaken" height="30" width="40" /></a>
+ <a href="https://www.reddit.com/user/DeadmanWasTaken" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/reddit.svg" alt="DeadmanWasTaken" height="30" width="40" /></a>
 
 ---
 
