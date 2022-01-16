@@ -65,6 +65,6 @@ I'll eventually add more here, but for now that's about it.
 </details> 
 
 <details>
-  <summary>:zap: GitHub Stats</summary>
+  <summary><b>⚡ GitHub Stats</b></summary>
   <img align="left" alt="DeadmanWasTaken's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=DeadmanWasTaken&show_icons=true&hide_border=true" />
 </details>
