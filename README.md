@@ -9,14 +9,14 @@ I usually open-source most of my projects, so I'm around Github quite frequently
 
 ---
 
-🗄 Projects I am currently working on:
+🗄 <b>Projects I am currently working on:</b>
 
 [![Workout Website](https://github-readme-stats.vercel.app/api/pin/?username=DeadmanWasTaken&repo=workoutwebsite)](https://github.com/DeadmanWasTaken/WorkoutWebsite)
 [![DeadmanWasTaken Readme](https://github-readme-stats.vercel.app/api/pin/?username=DeadmanWasTaken&repo=DeadmanWasTaken)](https://github.com/DeadmanWasTaken/DeadmanWasTaken)
 
 ---
 
-👀 Recent GitHub Activity
+👀 <b>Recent GitHub Activity</b>
   
 <!--RECENT_ACTIVITY:start-->
 1. 🔱 Forked [DeadmanWasTaken/waka-readme-stats](https://github.com/DeadmanWasTaken/waka-readme-stats) from [anmol098/waka-readme-stats](https://github.com/anmol098/waka-readme-stats)
@@ -32,7 +32,7 @@ Last Updated: Sunday, January 16th, 2022, 8:41:32 PM (Australian Central Dayligh
 
 ---
 
-🔗 Connect with me:
+🔗 <b>Connect with me:</b>
 
 <p align="left">
 <a href="https://twitter.com/DeadmanWasTaken" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="DeadmanWasTaken" height="30" width="40" /></a>
@@ -42,7 +42,7 @@ Last Updated: Sunday, January 16th, 2022, 8:41:32 PM (Australian Central Dayligh
  <a href="https://www.reddit.com/user/DeadmanWasTaken" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/reddit.svg" alt="DeadmanWasTaken" height="30" width="40" /></a>
 
 ---
-📊 This week I have spent my time on
+📊 <b>This week I have spent my time on</b>
 
 [![deadman's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=deadmanwastaken)](https://github.com/anuraghazra/github-readme-stats)
   
@@ -68,7 +68,7 @@ I'll eventually add more here, but for now that's about it.
 </details> 
       
 <details>
-  <summary><b>📈Language / Framework stats</b></summary>
+  <summary><b>📈Statistics</b></summary>
   <br/>
   <a href='https://profile.codersrank.io/user/DeadmanWasTaken/'>
   <img src='http://cr-skills-chart-widget.azurewebsites.net/api/api?username=DeadmanWasTaken&padding=30&skills=angular,batchfile,c,C%23,coffeescript,dart,go,html,json,java,javascript,less,mysql,php,pandas,perl,python,reactjs,scss,shell,svelte,swift,typescript,vue'>
@@ -76,6 +76,6 @@ I'll eventually add more here, but for now that's about it.
 </details> 
 
 <details>
-  <summary><b>⚡ GitHub Stats</b></summary>
+  <summary><b>⚡GitHub Stats</b></summary>
   <img align="left" alt="DeadmanWasTaken's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=DeadmanWasTaken&show_icons=true&hide_border=true" />
 </details>
