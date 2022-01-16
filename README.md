@@ -14,82 +14,6 @@ I usually open-source most of my projects, so I'm around Github quite frequently
 [![Workout Website](https://github-readme-stats.vercel.app/api/pin/?username=DeadmanWasTaken&repo=workoutwebsite)](https://github.com/DeadmanWasTaken/WorkoutWebsite)
 [![DeadmanWasTaken Readme](https://github-readme-stats.vercel.app/api/pin/?username=DeadmanWasTaken&repo=DeadmanWasTaken)](https://github.com/DeadmanWasTaken/DeadmanWasTaken)
 
-<!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%20hr%2058%20mins-blue)
-
-![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
-
-**🐱 My GitHub Data** 
-
-> 🏆 128 Contributions in the Year 2022
- > 
-> 📦 14.1 kB Used in GitHub's Storage 
- > 
-> 🚫 Not Opted to Hire
- > 
-> 📜 2 Public Repositories 
- > 
-> 🔑 1 Private Repository 
- > 
-**I'm an Early 🐤** 
-
-```text
-🌞 Morning    0 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   0.0% 
-🌆 Daytime    84 commits     ████████████████░░░░░░░░░   64.62% 
-🌃 Evening    45 commits     ████████░░░░░░░░░░░░░░░░░   34.62% 
-🌙 Night      1 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   0.77%
-
-```
-📅 **I'm Most Productive on Sunday** 
-
-```text
-Monday       3 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   2.31% 
-Tuesday      0 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   0.0% 
-Wednesday    0 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   0.0% 
-Thursday     0 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   0.0% 
-Friday       12 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   9.23% 
-Saturday     12 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   9.23% 
-Sunday       103 commits    ███████████████████░░░░░░   79.23%
-
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-⌚︎ Time Zone: Australia/Adelaide
-
-💬 Programming Languages: 
-No Activity Tracked This Week
-
-🔥 Editors: 
-No Activity Tracked This Week
-
-🐱‍💻 Projects: 
-No Activity Tracked This Week
-
-💻 Operating System: 
-No Activity Tracked This Week
-
-```
-
-**I Mostly Code in C#** 
-
-```text
-C#                       1 repo              ████████████░░░░░░░░░░░░░   50.0% 
-HTML                     1 repo              ████████████░░░░░░░░░░░░░   50.0%
-
-```
-
-
-**Timeline**
-
-![Chart not found](https://raw.githubusercontent.com/DeadmanWasTaken/DeadmanWasTaken/main/charts/bar_graph.png) 
-
-
- Last Updated on 16/01/2022
-<!--END_SECTION:waka-->
-
 ---
 
 👀 <b>Recent GitHub Activity</b>
@@ -146,9 +70,8 @@ I'll eventually add more here, but for now that's about it.
 <details>
   <summary><b>📈Statistics</b></summary>
   <br/>
-  <a href='https://profile.codersrank.io/user/DeadmanWasTaken/'>
-  <img src='http://cr-skills-chart-widget.azurewebsites.net/api/api?username=DeadmanWasTaken&padding=30&skills=angular,batchfile,c,C%23,coffeescript,dart,go,html,json,java,javascript,less,mysql,php,pandas,perl,python,reactjs,scss,shell,svelte,swift,typescript,vue'>
-  </a>
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
 </details> 
 
 <details>
