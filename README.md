@@ -31,7 +31,11 @@ I usually open-source most of my projects, so I'm around Github quite frequently
  <a href="https://www.reddit.com/user/DeadmanWasTaken" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/reddit.svg" alt="DeadmanWasTaken" height="30" width="40" /></a>
 
 ---
+📊 This week I spent my time on
 
+![Wwakatime stats](https://github-readme-stats-taupe-two.vercel.app/api/wakatime?username=DeadmanWasTaken&hide_title=true&hide_border=true&langs_count=5&bg_color=00000000&text_color=777)
+  
+---
 ### Languages and Tools:
 
 [<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />][visualstudio]
@@ -45,9 +49,7 @@ I usually open-source most of my projects, so I'm around Github quite frequently
 <br />
 
 ---
-📊 &nbsp;**This week I spent my time on**
 
-![Wwakatime stats](https://github-readme-stats-taupe-two.vercel.app/api/wakatime?username=DeadmanWasTaken&hide_title=true&hide_border=true&langs_count=5&bg_color=00000000&text_color=777)
 
 
 
