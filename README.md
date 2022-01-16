@@ -1,7 +1,7 @@
 ### Hi there, I'm Trent - aka [DeadmanWasTaken][website] 👋 
 
-[][(https://img.shields.io/website-up-down-green-red/http/cv.lbesson.qc.to.svg)]
-https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white
+[![Website (Coming Soon)](https://img.shields.io/website?label=???&style=for-the-badge&url=https%3A%2F%2F???)](???)
+[![Twitter Follow](https://img.shields.io/twitter/follow/codeSTACKr?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FcodeSTACKr&screen_name=codeSTACKr)
 
 ## I'm a Son, Junior (Year 11) Student, an Uprising Web Developer!!
 
