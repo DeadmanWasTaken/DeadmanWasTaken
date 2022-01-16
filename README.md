@@ -1,8 +1,5 @@
 ### Hello there! My name is Trent - also known as [DeadmanWasTaken][website]<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
-[![Website](https://img.shields.io/website?label=WebsiteComingSoon&style=for-the-badge&url=https%3A%2F%2Fgoogle.com)](https://www.google.com)
-[![Twitter Follow](https://img.shields.io/twitter/follow/DeadmanWasTaken?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FDeadmanWasTaken&screen_name=DeadmanWasTaken)
-
 📊 &nbsp;**This week I spent my time on**
 
 ![Wwakatime stats](https://github-readme-stats-taupe-two.vercel.app/api/wakatime?username=DeadmanWasTaken&hide_title=true&hide_border=true&langs_count=5&bg_color=00000000&text_color=777)
