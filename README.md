@@ -12,6 +12,7 @@ I usually open-source most of my projects, so I'm around Github quite frequently
 👀 Recent GitHub Activity
   
 <!--START_SECTION:activity-->
+
 <!--END_SECTION:activity-->
 
 ---
@@ -28,8 +29,7 @@ I usually open-source most of my projects, so I'm around Github quite frequently
 ---
 📊 This week I have spent my time on
 
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
+[![deadman's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=deadmanwastaken)](https://github.com/anuraghazra/github-readme-stats)
   
 ---
   
