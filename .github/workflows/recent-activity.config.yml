@@ -1,19 +1,5 @@
-name: Update README
-
-on:
-  schedule:
-    - cron: '*/30 * * * *' # Update every 30 minutes
-  workflow_dispatch:
-
-jobs:
-  build:
-    runs-on: ubuntu-latest
-    name: Update Profile README
-
-    steps:
-      - uses: actions/checkout@master
-      #
-      # "{version}" is a placeholder and should be replaced with the latest release of recent-activity
-      - uses: Readme-Workflows/recent-activity@{version}
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+settings:
+  date:
+    timezone: "UTC+10:30"
+    text: "Last Updated: {DATE} (Australian Central Daylight Time)"
+    format: "dddd, mmmm dS, yyyy, h:MM:ss TT"
