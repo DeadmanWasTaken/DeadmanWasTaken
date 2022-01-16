@@ -1,4 +1,5 @@
 name: Update README
+CONFIG_FILE: './.github/recent-activity.config.yml
 
 on:
   schedule:
