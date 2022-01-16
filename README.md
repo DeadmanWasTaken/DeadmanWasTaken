@@ -9,8 +9,7 @@ I usually open-source most of my projects, so I'm around Github quite frequently
 
 <br />
 
-<details>
-  <summary><img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" /> Recent GitHub Activity</summary>
+<summary><img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" /> Recent GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#46](https://github.com/codeSTACKr/video-source-code-create-nft-collection/issues/46) in [codeSTACKr/video-source-code-create-nft-collection](https://github.com/codeSTACKr/video-source-code-create-nft-collection)
@@ -20,7 +19,6 @@ I usually open-source most of my projects, so I'm around Github quite frequently
 5. ❗️ Closed issue [#44](https://github.com/codeSTACKr/video-source-code-create-nft-collection/issues/44) in [codeSTACKr/video-source-code-create-nft-collection](https://github.com/codeSTACKr/video-source-code-create-nft-collection)
 <!--END_SECTION:activity-->
 
-</details>
 
 ### Connect with me:
 
