@@ -1,6 +1,6 @@
 ### Hi there, I'm Trent - aka [DeadmanWasTaken][website] 👋 
 
-https://img.shields.io/website-up-down-green-red/http/cv.lbesson.qc.to.svg
+[(https://img.shields.io/website-up-down-green-red/http/cv.lbesson.qc.to.svg)]
 https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white
 
 ## I'm a Son, Junior (Year 11) Student, an Uprising Web Developer!!
