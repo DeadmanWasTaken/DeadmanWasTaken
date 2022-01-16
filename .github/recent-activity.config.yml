@@ -1,0 +1,5 @@
+settings:
+  date:
+    timezone: "Australia/Adelaide"
+    text: "Last Updated: {DATE} (Australian Central Daylight Time)"
+    format: "dddd, mmmm dS, yyyy, h:MM:ss TT"
