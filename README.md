@@ -9,7 +9,7 @@ I usually open-source most of my projects, so I'm around Github quite frequently
 
 ---
 
-<summary>👀 Recent GitHub Activity</summary>
+👀 Recent GitHub Activity
   
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#46](https://github.com/codeSTACKr/video-source-code-create-nft-collection/issues/46) in [codeSTACKr/video-source-code-create-nft-collection](https://github.com/codeSTACKr/video-source-code-create-nft-collection)
