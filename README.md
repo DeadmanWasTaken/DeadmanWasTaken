@@ -12,8 +12,16 @@ I usually open-source most of my projects, so I'm around Github quite frequently
 👀 Recent GitHub Activity
   
 <!--RECENT_ACTIVITY:start-->
+1. 🔱 Forked [DeadmanWasTaken/waka-readme-stats](https://github.com/DeadmanWasTaken/waka-readme-stats) from [anmol098/waka-readme-stats](https://github.com/anmol098/waka-readme-stats)
+2. 🔱 Forked [DeadmanWasTaken/jamesgeorge007](https://github.com/DeadmanWasTaken/jamesgeorge007) from [jamesgeorge007/jamesgeorge007](https://github.com/jamesgeorge007/jamesgeorge007)
+3. 🔱 Forked [DeadmanWasTaken/awesome-github-profile-readme](https://github.com/DeadmanWasTaken/awesome-github-profile-readme) from [abhisheknaiidu/awesome-github-profile-readme](https://github.com/abhisheknaiidu/awesome-github-profile-readme)
+4. 🔱 Forked [DeadmanWasTaken/gautamkrishnar](https://github.com/DeadmanWasTaken/gautamkrishnar) from [gautamkrishnar/gautamkrishnar](https://github.com/gautamkrishnar/gautamkrishnar)
+5. 🔱 Forked [DeadmanWasTaken/codeSTACKr](https://github.com/DeadmanWasTaken/codeSTACKr) from [codeSTACKr/codeSTACKr](https://github.com/codeSTACKr/codeSTACKr)
+<!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
+Last Updated: Sunday, January 16th, 2022, 9:41:47 AM
+<!--RECENT_ACTIVITY:last_update_end-->
 
 ---
 
