@@ -71,6 +71,8 @@ I'll eventually add more here, but for now that's about it.
   <summary><b>📈Statistics</b></summary>
   <br/>
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-2%20hrs%2049%20mins-blue)
+
 **I'm an Early 🐤** 
 
 ```text
