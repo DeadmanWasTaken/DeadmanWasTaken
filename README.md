@@ -131,7 +131,7 @@ HTML                     1 repo              ███████████�
 ![Chart not found](https://raw.githubusercontent.com/DeadmanWasTaken/DeadmanWasTaken/main/charts/bar_graph.png) 
 
 
- Last Updated on 20/01/2022 22:05:57 UTC
+ Last Updated on 20/01/2022 22:35:24 UTC
 <!--END_SECTION:waka-->
 </details> 
 
