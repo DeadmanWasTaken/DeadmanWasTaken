@@ -12,7 +12,7 @@ I usually open-source most of my projects, so I'm around Github quite frequently
 🗄 <b>Projects I am currently working on:</b>
 
 [![Workout Website](https://github-readme-stats.vercel.app/api/pin/?username=DeadmanWasTaken&repo=workoutwebsite)](https://github.com/DeadmanWasTaken/WorkoutWebsite)
-[![DeadmanWasTaken Readme](https://github-readme-stats.vercel.app/api/pin/?username=DeadmanWasTaken&repo=DeadmanWasTaken)](https://github.com/DeadmanWasTaken/R6-S-Attachments-Website)
+[![DeadmanWasTaken Readme](https://github-readme-stats.vercel.app/api/pin/?username=DeadmanWasTaken&repo=R6-S-Attachments-Website)](https://github.com/DeadmanWasTaken/R6-S-Attachments-Website)
 
 ---
 
