@@ -128,7 +128,7 @@ C#                       1 repo              ████████░░░�
 ![Chart not found](https://raw.githubusercontent.com/DeadmanWasTaken/DeadmanWasTaken/main/charts/bar_graph.png) 
 
 
- Last Updated on 25/01/2022 19:05:50 UTC
+ Last Updated on 25/01/2022 19:33:28 UTC
 <!--END_SECTION:waka-->
 </details> 
 
