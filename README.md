@@ -71,7 +71,7 @@ I'll eventually add more here, but for now that's about it.
   <summary><b>📈Statistics</b></summary>
   <br/>
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-20%20hrs%2052%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-21%20hrs%2029%20mins-blue)
 
 **I'm an Early 🐤** 
 
@@ -130,7 +130,7 @@ C#                       1 repo              ████████░░░�
 ![Chart not found](https://raw.githubusercontent.com/DeadmanWasTaken/DeadmanWasTaken/main/charts/bar_graph.png) 
 
 
- Last Updated on 09/02/2022 04:08:14 UTC
+ Last Updated on 09/02/2022 04:44:26 UTC
 <!--END_SECTION:waka-->
 </details> 
 
