@@ -73,7 +73,7 @@ I'll eventually add more here, but for now that's about it.
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-30%20hrs%2041%20mins-blue)
 
-**I'm an Early 🐤** 
+**I'm an early 🐤** 
 
 ```text
 🌞 Morning    10 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   6.41% 
@@ -82,7 +82,7 @@ I'll eventually add more here, but for now that's about it.
 🌙 Night      1 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   0.64%
 
 ```
-📅 **I'm Most Productive on Sunday** 
+📅 **I'm most productive on Sunday** 
 
 ```text
 Monday       16 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   10.26% 
@@ -96,7 +96,7 @@ Sunday       102 commits    ████████████████░�
 ```
 
 
-📊 **This Week I Spent My Time On** 
+📊 **This week I spent my time on** 
 
 ```text
 ⌚︎ Time Zone: Australia/Adelaide
@@ -112,7 +112,7 @@ No Activity Tracked This Week
 
 ```
 
-**I Mostly Code in HTML** 
+**💻 I mostly code in HTML** 
 
 ```text
 HTML                     2 repos             ████████████████░░░░░░░░░   66.67% 
@@ -126,7 +126,7 @@ C#                       1 repo              ████████░░░�
 ![Chart not found](https://raw.githubusercontent.com/DeadmanWasTaken/DeadmanWasTaken/main/charts/bar_graph.png) 
 
 
- Last Updated on 12/06/2022 07:33:54 UTC
+ Last Updated on 12/06/2022 08:09:11 UTC
 <!--END_SECTION:waka-->
 </details> 
 
