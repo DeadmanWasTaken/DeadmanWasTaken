@@ -71,7 +71,7 @@ I'll eventually add more here, but for now that's about it.
   <summary><b>📈Statistics</b></summary>
   <br/>
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-39%20hrs%2038%20mins-blue)
 
 **I'm an Early 🐤** 
 
@@ -102,14 +102,14 @@ Sunday       102 commits    ████████████████░�
 ⌚︎ Time Zone: Australia/Adelaide
 
 💬 Programming Languages: 
-C#                       5 hrs 46 mins       ███████████████████░░░░░░   79.28% 
-Other                    1 hr 30 mins        █████░░░░░░░░░░░░░░░░░░░░   20.72%
+C#                       7 hrs 10 mins       ████████████████████░░░░░   80.17% 
+Other                    1 hr 46 mins        █████░░░░░░░░░░░░░░░░░░░░   19.83%
 
 🔥 Editors: 
-Visual Studio            7 hrs 16 mins       █████████████████████████   100.0%
+Visual Studio            8 hrs 56 mins       █████████████████████████   100.0%
 
 💻 Operating System: 
-Windows                  7 hrs 16 mins       █████████████████████████   100.0%
+Windows                  8 hrs 56 mins       █████████████████████████   100.0%
 
 ```
 
@@ -127,7 +127,7 @@ C#                       1 repo              ████████░░░�
 ![Chart not found](https://raw.githubusercontent.com/DeadmanWasTaken/DeadmanWasTaken/main/charts/bar_graph.png) 
 
 
- Last Updated on 15/06/2022 14:35:24 UTC
+ Last Updated on 15/06/2022 15:08:30 UTC
 <!--END_SECTION:waka-->
 </details> 
 
